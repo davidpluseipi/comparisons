@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int max = 5;
-int count = 5;
+int count = 0;
 
 int main() {
 
