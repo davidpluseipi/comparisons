@@ -17,7 +17,7 @@ int main() {
     scanf("%d", &F);
 
     // perform the conversion
-    C = (F - 32) * 5 / 9;
+    C = (F - 32) * (5. / 9);
     
     // print the result
     printf("The entered temperature in C is: %d\n", C);
