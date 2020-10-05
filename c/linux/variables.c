@@ -10,9 +10,8 @@ int main()
     printf("but did not like being 70.\n\n");
 
     // 2nd iteration (using variables)
-    char letter = 'a';
     char name[] = "John";
-    unsigned int age = 36;
+    int age = 35;
 
     printf("There once was a man named %s.\n", name);
     printf("He was %d years old.\n", age);
